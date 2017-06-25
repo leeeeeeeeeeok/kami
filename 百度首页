@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>百度页面/李金墅</title>
+<style>
+li{display:inline;}
+ul{list-style:none;position:absolute;right:20px;top:25px;}
+
+.f1{color:#333;font-weight:bold;font-size:15px;}
+.f2{color:#333;font-size:13px;}
+.f3{background:#3388ff;width:60px;height:25px;font-size:13px;text-decoration:none;display:inline-block;margin:0 15px 0 25px;text-align:center;color:#fff;line-height:25px;}
+#search{width:541px;height:36px;}
+#submit{background:rgb(51,133,255);color:#fff;border:#4791ff solid 1px;width:102px;height:36px;font-size:15px;}
+#logo{width:212px;height:68px;margin:118px auto 41px;display:block;}
+.mainbody{width:650px;margin:0 auto;height:36px;line-height:36px;}
+.final{margin:400px auto;width:340px;font-size:13px;color:#999999;}
+.g1{color:#999999;padding:3px;}
+.g3{color:#999999;}
+</style>
+</head>
+
+<body>
+    <div class="daohang"><ul>
+    <a href="#" class="f1">新闻</a>
+    <a href="#" class="f1">hao123</a>
+    <a href="#" class="f1">地图</a>
+    <a href="#" class="f1">视频</a>
+    <a href="#" class="f1">贴吧</a>
+    <a href="#" class="f1">学术</a>
+    <a href="#" class="f2">登录</a>
+    <a href="#" class="f2">设置</a>
+   <a href="#" class="f3">更多产品</a>
+    </div>
+    <div class="mainbody"><img src="https://www.baidu.com/img/bd_logo1.png" id="logo">
+        <input type="search" id="search" ><input type="submit" id="submit" value="百度一下"></div>
+        <div class="final">
+            &nbsp;<a href="#" class="g1">把百度设为主页</a>
+            <a href="#" class="g1">关于百度</a>
+            <a href="#" class="g1">About Baidu</a>
+            <a href="#" class="g1">百度推广</a>
+            <br/>2017 Baidu
+        <a href="#" class="g3">使用百度前必读</a>
+        <a href="#" class="g3">意见反馈</a>
+        京ICP证030173号</div>
+        
+</body>
+</html>
